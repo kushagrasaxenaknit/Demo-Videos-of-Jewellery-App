@@ -1,7 +1,7 @@
 # Demo-Videos-of-Jewellery-App
 
 # Demo-Videos-at-Internship-Work
-
+Firebase data is fetched and displayed in android app with customized layout
 Click on image to open 
 Video Link
 
